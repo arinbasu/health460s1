@@ -1,11 +1,15 @@
 ---
-title: "First Lesson"
+title: "How to critically read papers"
 teaching: 10
-exercises: 30
+exercises: 45
 questions:
-- "Key question"
+- "How to spot arguments from non-arguments?"
 objectives:
-- "First objective."
+- "Learn to spot arguments from non-arguments"
 keypoints:
-- "First key point."
+- "Arguments have statements with reasoning with persuasion"
+- "Explanations have statements with reasoning only"
+- "Non-arguments do not have any reasoning"
 ---
+## Arguments versus non-Arguments
+For each of the statements and excerpts presented below, spot the type of statement you get to read.
